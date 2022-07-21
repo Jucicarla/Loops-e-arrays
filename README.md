@@ -2,4 +2,4 @@
 
 ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA 
 
-Exercicios de Java do Curso do Bootcamp Code Girls DIO
+Repositório para Estudo e Exercícios de Java do Curso do Bootcamp Code Girls 2022 - DIO
